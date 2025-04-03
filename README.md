@@ -1,3 +1,52 @@
+CMD
+.4.0 tzdata-2025.2 urllib3-2.3.0 watchdog-6.0.0
+
+.9.1 python-dateutil-2.9.0.post0 python-dotenv-1.1.0 pytz-2025.2 referencing-0.36.2 requests-2.32.3 rpds-py-0.24.0 six-1.17.0 smmap-5.0.2 sniffio-1.3.1 streamlit-1.44.1 tenacity-9.1.2 toml-0.10.2 tornado-6.4.2 tqdm-4.67.1 typing-extensions-4.13.1 typing-inspection-0.4.0 tzdata-2025.2 urllib3-2.3.0 watchdog-6.0.0
+
+[notice] A new release of pip is available: 23.1.2 -> 25.0.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+.0.2 sniffio-1.3.1 streamlit-1.44.1 tenacity-9.1.2 toml-0.10.2 tornado-6.4.2 tqdm-4.67.1 typing-extensions-4.13.1 typing-inspection-0.4.0 tzdata-2025.2 urllib3-2.3.0 watchdog-6.0.0
+
+[notice] A new release of pip is available: 23.1.2 -> 25.0.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> venv\Scripts\activate
+
+[notice] A new release of pip is available: 23.1.2 -> 25.0.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> venv\Scripts\activate
+[notice] A new release of pip is available: 23.1.2 -> 25.0.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> venv\Scripts\activate
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> streamlit run new_app.py
+
+  You can now view your Streamlit app in your browser.
+
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> venv\Scripts\activate
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> streamlit run new_app.py
+
+  You can now view your Streamlit app in your browser.
+
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> streamlit run new_app.py
+
+  You can now view your Streamlit app in your browser.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.43.229:8501
+-----------------------------------------------
+  Stopping...
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> ^C
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> venv\Scripts\activate
+(venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> streamlit run new_app.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.43.229:8501
+
+
 (venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> python -m venv venv                                           
 (venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> venv\Scripts\activate                                         
 (venv) PS C:\Users\yukik\Desktop\20250404_Django_Vue.js_front_chatbot> streamlit run new_app.py                                      

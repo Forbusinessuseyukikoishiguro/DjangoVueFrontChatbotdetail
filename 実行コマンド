@@ -1,0 +1,6 @@
+(venv) PS C:\\20250404_Django_Vue.js_front_chatbot> streamlit run new_app.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.43.229:8501
